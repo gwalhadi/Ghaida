@@ -1,0 +1,7 @@
+
+#include <iostream>
+
+int main() {
+    std::cout << "No dream is impossible when Allah is with you";
+    return 0;
+}
